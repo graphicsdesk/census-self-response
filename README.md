@@ -1,6 +1,12 @@
 Looking at 2010 final and 2020 current self response data.
 
-## Setup
+## Graphics Setup
+
+This story was created with [Spectate](https://github.com/spec-journalism/spectate).
+
+For cloning and usage instructions, see the [Spectate documentation](https://github.com/spec-journalism/spectate/#cloning-a-spectate-project).
+
+## Data Setup
 
 ```
 # Clone and move into the repository
