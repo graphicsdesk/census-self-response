@@ -20,9 +20,3 @@ $ pipenv shell
 # Open the notebook
 shell@ $ jupyter notebook
 ```
-
-## Graphics
-
-![](outputs/2010.jpg)
-
-![](outputs/2020.jpg)
